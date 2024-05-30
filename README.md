@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prit2905&label=Profile%20views&color=0e75b6&style=flat" alt="prit2905" /> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics, PowerBI, MySQL, Python**
 
 - 💬 Ask me about **Data Analytics**
 
